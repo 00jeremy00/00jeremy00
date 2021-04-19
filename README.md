@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @00jeremy00
 - 👀 I’m interested in Natural Language Processing, Automation, and Computer Vision
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Assembly and Functional Programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jeremydickinson19@gmail.com
 <!---
